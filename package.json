@@ -97,7 +97,7 @@
         "rimraf": "^3.0.0",
         "ts-node": "^7.0.1",
         "typescript": "^3.9.2",
-        "vue-eslint-parser": "^7.0.0",
+        "vue-eslint-parser": "^7.1.0",
         "xml-escape": "^1.1.0"
     },
     "greenkeeper": {
